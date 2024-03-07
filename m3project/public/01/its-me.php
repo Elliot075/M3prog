@@ -1,1 +1,1 @@
-<?php echo 'student nummer: 459736, naam: leraar, klas:docenten1'?>
+<?php echo 'student nummer: 3776, naam: leraar, klas:docenten1'?>
